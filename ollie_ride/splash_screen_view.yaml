@@ -1,0 +1,4 @@
+splash_screen_view:
+  color: '#ffffff'
+  android: true
+  ios: true
